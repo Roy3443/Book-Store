@@ -26,7 +26,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/book-store.git
-cd book-store
+git clone git@github.com:Roy3443/Book-Store.git
+cd Book-store
 
 
