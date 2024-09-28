@@ -15,6 +15,12 @@
     <li>Database: MongoDB</li>
     <li>Containerization: Docker + Docker Compose</li>
  </ul>
+ <h2>Getting Started</h2>
+Prerequisites
+Make sure you have Docker and Docker Compose installed on your machine.
+
+Install Docker
+Install Docker Compose
 
 
 
