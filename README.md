@@ -23,10 +23,8 @@ Install Docker
 Install Docker Compose
 <h3>Installation</h3>
 Clone the repository:
-
-bash
-Copy code
 git clone git@github.com:Roy3443/Book-Store.git
 cd Book-store
+
 
 
