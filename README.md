@@ -29,7 +29,6 @@ git clone git@github.com:Roy3443/Book-Store.git
 cd Book-store
 </br>
 </br>
-
 2. Run the application with Docker Compose:
 docker-compose up --build
 </br>
