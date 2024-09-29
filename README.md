@@ -24,8 +24,12 @@ Install Docker Compose
 <h3>Installation</h3>
 1. Clone the repository:
 git clone git@github.com:Roy3443/Book-Store.git
+</br>
+
 cd Book-store
 </br>
+</br>
+
 2. Run the application with Docker Compose:
 docker-compose up --build
 </br>
