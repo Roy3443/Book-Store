@@ -25,8 +25,10 @@ Install Docker Compose
 1. Clone the repository:
 git clone git@github.com:Roy3443/Book-Store.git
 cd Book-store
+</br>
 2. Run the application with Docker Compose:
 docker-compose up --build
+</br>
 This will start the React frontend on http://localhost:3000 and the backend API on http://localhost:5555.
 
 
